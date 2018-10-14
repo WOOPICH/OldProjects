@@ -1,0 +1,7 @@
+﻿  MyForm.cpp
+c:\users\dimka\desktop\мирэа\2 семестр\ооп\8 лаба\library\MyForm.h(519): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\dimka\desktop\мирэа\2 семестр\ооп\8 лаба\library\MyForm.h(541): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\dimka\desktop\мирэа\2 семестр\ооп\8 лаба\library\MyForm.h(544): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\dimka\desktop\мирэа\2 семестр\ооп\8 лаба\library\MyForm.h(566): warning C4018: <: несоответствие типов со знаком и без знака
+MyForm.cpp(7): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+  Library.vcxproj -> C:\Users\dimka\Desktop\МИРЭА\2 Семестр\ООП\8 Лаба\Debug\Library.exe

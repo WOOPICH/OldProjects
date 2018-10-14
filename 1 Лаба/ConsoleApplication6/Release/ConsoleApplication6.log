@@ -1,0 +1,8 @@
+﻿  stdafx.cpp
+  ConsoleApplication6.cpp
+ConsoleApplication6.cpp(258): warning C4101: A2: неиспользованная локальная переменная
+  Создание кода
+  All 88 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication6.vcxproj -> C:\Users\dimka\source\repos\ConsoleApplication6\Release\ConsoleApplication6.exe
+  ConsoleApplication6.vcxproj -> C:\Users\dimka\source\repos\ConsoleApplication6\Release\ConsoleApplication6.pdb (Full PDB)

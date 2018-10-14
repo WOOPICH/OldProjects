@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+c:\users\dimka\source\repos\kursach\kursach\Objects.h(117): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+MyForm.cpp(12): warning C4829: Возможно, неправильные параметры функции main. Рекомендуемый вариант - "int main(Platform::Array<Platform::String^>^ argv)"
+MyForm.cpp(14): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  .NETFramework,Version=v4.6.1.AssemblyAttributes.cpp
+  Kursach.vcxproj -> C:\Users\dimka\source\repos\Kursach\Release\Kursach.exe

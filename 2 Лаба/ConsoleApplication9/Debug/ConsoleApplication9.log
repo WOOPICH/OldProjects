@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  ConsoleApplication9.cpp
+c:\users\dimka\desktop\мирэа\2 семестр\ооп\2 лаба\consoleapplication9\consoleapplication9.cpp(178): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication9.vcxproj -> C:\Users\dimka\Desktop\МИРЭА\2 Семестр\ООП\2 Лаба\Debug\ConsoleApplication9.exe
+  ConsoleApplication9.vcxproj -> C:\Users\dimka\Desktop\МИРЭА\2 Семестр\ООП\2 Лаба\Debug\ConsoleApplication9.pdb (Partial PDB)
